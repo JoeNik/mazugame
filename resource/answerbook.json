@@ -1,0 +1,786 @@
+[
+    {
+        "id": 1,
+        "answer": "是的。",
+        "answer_tw": "是的。",
+        "answer_en": "Yes.",
+        "from": "答案之书"
+    },
+    {
+        "id": 2,
+        "answer": "不是。",
+        "answer_tw": "不是。",
+        "answer_en": "No.",
+        "from": "答案之书"
+    },
+    {
+        "id": 3,
+        "answer": "也许吧。",
+        "answer_tw": "也許吧。",
+        "answer_en": "Maybe.",
+        "from": "答案之书"
+    },
+    {
+        "id": 4,
+        "answer": "再试一次。",
+        "answer_tw": "再試一次。",
+        "answer_en": "Try again.",
+        "from": "答案之书"
+    },
+    {
+        "id": 5,
+        "answer": "时机未到。",
+        "answer_tw": "時機未到。",
+        "answer_en": "The time is not right.",
+        "from": "答案之书"
+    },
+    {
+        "id": 6,
+        "answer": "放手也是一种智慧。",
+        "answer_tw": "放手也是一種智慧。",
+        "answer_en": "Letting go is a form of wisdom.",
+        "from": "答案之书"
+    },
+    {
+        "id": 7,
+        "answer": "大胆一点。",
+        "answer_tw": "大膽一點。",
+        "answer_en": "Be bolder.",
+        "from": "答案之书"
+    },
+    {
+        "id": 8,
+        "answer": "不要犹豫。",
+        "answer_tw": "不要猶豫。",
+        "answer_en": "Don't hesitate.",
+        "from": "答案之书"
+    },
+    {
+        "id": 9,
+        "answer": "听从直觉。",
+        "answer_tw": "聽從直覺。",
+        "answer_en": "Trust your intuition.",
+        "from": "答案之书"
+    },
+    {
+        "id": 10,
+        "answer": "你已经知道答案了。",
+        "answer_tw": "你已經知道答案了。",
+        "answer_en": "You already know the answer.",
+        "from": "答案之书"
+    },
+    {
+        "id": 11,
+        "answer": "等待更好的时机。",
+        "answer_tw": "等待更好的時機。",
+        "answer_en": "Wait for a better time.",
+        "from": "答案之书"
+    },
+    {
+        "id": 12,
+        "answer": "现在是最好的时候。",
+        "answer_tw": "現在是最好的時候。",
+        "answer_en": "Now is the best moment.",
+        "from": "答案之书"
+    },
+    {
+        "id": 13,
+        "answer": "尝试新方法。",
+        "answer_tw": "嘗試新方法。",
+        "answer_en": "Try new methods.",
+        "from": "答案之书"
+    },
+    {
+        "id": 14,
+        "answer": "放松心情。",
+        "answer_tw": "放鬆心情。",
+        "answer_en": "Relax.",
+        "from": "答案之书"
+    },
+    {
+        "id": 15,
+        "answer": "相信自己。",
+        "answer_tw": "相信自己。",
+        "answer_en": "Believe in yourself.",
+        "from": "答案之书"
+    },
+    {
+        "id": 16,
+        "answer": "你配得上更好的。",
+        "answer_tw": "你配得上更好的。",
+        "answer_en": "You deserve better.",
+        "from": "答案之书"
+    },
+    {
+        "id": 17,
+        "answer": "别害怕失败。",
+        "answer_tw": "別害怕失敗。",
+        "answer_en": "Don't fear failure.",
+        "from": "答案之书"
+    },
+    {
+        "id": 18,
+        "answer": "接受不确定性。",
+        "answer_tw": "接受不確定性。",
+        "answer_en": "Accept uncertainty.",
+        "from": "答案之书"
+    },
+    {
+        "id": 19,
+        "answer": "答案藏在沉默中。",
+        "answer_tw": "答案藏在沉默中。",
+        "answer_en": "The answer lies in silence.",
+        "from": "答案之书"
+    },
+    {
+        "id": 20,
+        "answer": "你的努力会有回报。",
+        "answer_tw": "你的努力會有回報。",
+        "answer_en": "Your efforts will pay off.",
+        "from": "答案之书"
+    },
+    {
+        "id": 21,
+        "answer": "坚持下去。",
+        "answer_tw": "堅持下去。",
+        "answer_en": "Keep going.",
+        "from": "答案之书"
+    },
+    {
+        "id": 22,
+        "answer": "转换角度看看。",
+        "answer_tw": "轉換角度看看。",
+        "answer_en": "Look from a different angle.",
+        "from": "答案之书"
+    },
+    {
+        "id": 23,
+        "answer": "咨询朋友的意见。",
+        "answer_tw": "諮詢朋友的意見。",
+        "answer_en": "Consult your friends.",
+        "from": "答案之书"
+    },
+    {
+        "id": 24,
+        "answer": "这不值得担心。",
+        "answer_tw": "這不值得擔心。",
+        "answer_en": "It's not worth worrying about.",
+        "from": "答案之书"
+    },
+    {
+        "id": 25,
+        "answer": "它不会影响你。",
+        "answer_tw": "它不會影響你。",
+        "answer_en": "It won't affect you.",
+        "from": "答案之书"
+    },
+    {
+        "id": 26,
+        "answer": "这是一次成长机会。",
+        "answer_tw": "這是一次成長機會。",
+        "answer_en": "This is a chance to grow.",
+        "from": "答案之书"
+    },
+    {
+        "id": 27,
+        "answer": "你将遇到贵人。",
+        "answer_tw": "你將遇到貴人。",
+        "answer_en": "You will meet someone important.",
+        "from": "答案之书"
+    },
+    {
+        "id": 28,
+        "answer": "保持低调。",
+        "answer_tw": "保持低調。",
+        "answer_en": "Stay low-key.",
+        "from": "答案之书"
+    },
+    {
+        "id": 29,
+        "answer": "不要告诉任何人。",
+        "answer_tw": "不要告訴任何人。",
+        "answer_en": "Don't tell anyone.",
+        "from": "答案之书"
+    },
+    {
+        "id": 30,
+        "answer": "与其担心，不如行动。",
+        "answer_tw": "與其擔心，不如行動。",
+        "answer_en": "Instead of worrying, take action.",
+        "from": "答案之书"
+    },
+    {
+        "id": 31,
+        "answer": "做好最坏的打算。",
+        "answer_tw": "做好最壞的打算。",
+        "answer_en": "Prepare for the worst.",
+        "from": "答案之书"
+    },
+    {
+        "id": 32,
+        "answer": "保持耐心。",
+        "answer_tw": "保持耐心。",
+        "answer_en": "Be patient.",
+        "from": "答案之书"
+    },
+    {
+        "id": 33,
+        "answer": "机会正在靠近你。",
+        "answer_tw": "機會正在靠近你。",
+        "answer_en": "Opportunities are coming your way.",
+        "from": "答案之书"
+    },
+    {
+        "id": 34,
+        "answer": "它会如你所愿发展。",
+        "answer_tw": "它會如你所願發展。",
+        "answer_en": "It will unfold as you wish.",
+        "from": "答案之书"
+    },
+    {
+        "id": 35,
+        "answer": "现在不适合做决定。",
+        "answer_tw": "現在不適合做決定。",
+        "answer_en": "Now is not the time to decide.",
+        "from": "答案之书"
+    },
+    {
+        "id": 36,
+        "answer": "继续观察。",
+        "answer_tw": "繼續觀察。",
+        "answer_en": "Keep observing.",
+        "from": "答案之书"
+    },
+    {
+        "id": 37,
+        "answer": "这是个陷阱。",
+        "answer_tw": "這是個陷阱。",
+        "answer_en": "This is a trap.",
+        "from": "答案之书"
+    },
+    {
+        "id": 38,
+        "answer": "放弃是明智的选择。",
+        "answer_tw": "放棄是明智的選擇。",
+        "answer_en": "Giving up is a wise choice.",
+        "from": "答案之书"
+    },
+    {
+        "id": 39,
+        "answer": "是时候展开行动了。",
+        "answer_tw": "是時候展開行動了。",
+        "answer_en": "It's time to act.",
+        "from": "答案之书"
+    },
+    {
+        "id": 40,
+        "answer": "这不是你真正想要的。",
+        "answer_tw": "這不是你真正想要的。",
+        "answer_en": "This is not what you really want.",
+        "from": "答案之书"
+    },
+    {
+        "id": 41,
+        "answer": "这个决定会带来好运。",
+        "answer_tw": "這個決定會帶來好運。",
+        "answer_en": "This decision will bring good luck.",
+        "from": "答案之书"
+    },
+    {
+        "id": 42,
+        "answer": "没必要太认真。",
+        "answer_tw": "沒必要太認真。",
+        "answer_en": "No need to take it too seriously.",
+        "from": "答案之书"
+    },
+    {
+        "id": 43,
+        "answer": "你应该坚持原则。",
+        "answer_tw": "你應該堅持原則。",
+        "answer_en": "You should stick to your principles.",
+        "from": "答案之书"
+    },
+    {
+        "id": 44,
+        "answer": "时间会告诉你答案。",
+        "answer_tw": "時間會告訴你答案。",
+        "answer_en": "Time will tell the answer.",
+        "from": "答案之书"
+    },
+    {
+        "id": 45,
+        "answer": "不要过早暴露计划。",
+        "answer_tw": "不要過早暴露計劃。",
+        "answer_en": "Don't reveal your plans too early.",
+        "from": "答案之书"
+    },
+    {
+        "id": 46,
+        "answer": "你低估了自己的影响力。",
+        "answer_tw": "你低估了自己的影響力。",
+        "answer_en": "You underestimate your influence.",
+        "from": "答案之书"
+    },
+    {
+        "id": 47,
+        "answer": "有人在等你主动。",
+        "answer_tw": "有人在等你主動。",
+        "answer_en": "Someone is waiting for you to take initiative.",
+        "from": "答案之书"
+    },
+    {
+        "id": 48,
+        "answer": "做你害怕的事。",
+        "answer_tw": "做你害怕的事。",
+        "answer_en": "Do what scares you.",
+        "from": "答案之书"
+    },
+    {
+        "id": 49,
+        "answer": "可能会超出你预期。",
+        "answer_tw": "可能會超出你預期。",
+        "answer_en": "It might exceed your expectations.",
+        "from": "答案之书"
+    },
+    {
+        "id": 50,
+        "answer": "试试不同的方法。",
+        "answer_tw": "試試不同的方法。",
+        "answer_en": "Try a different approach.",
+        "from": "答案之书"
+    },
+    {
+        "id": 51,
+        "answer": "这是命运的安排。",
+        "answer_tw": "這是命運的安排。",
+        "answer_en": "This is fate's arrangement.",
+        "from": "答案之书"
+    },
+    {
+        "id": 52,
+        "answer": "你已经准备好了。",
+        "answer_tw": "你已經準備好了。",
+        "answer_en": "You are ready.",
+        "from": "答案之书"
+    },
+    {
+        "id": 53,
+        "answer": "这不重要。",
+        "answer_tw": "這不重要。",
+        "answer_en": "It doesn't matter.",
+        "from": "答案之书"
+    },
+    {
+        "id": 54,
+        "answer": "你能应付得来。",
+        "answer_tw": "你能應付得來。",
+        "answer_en": "You can handle it.",
+        "from": "答案之书"
+    },
+    {
+        "id": 55,
+        "answer": "相信过程。",
+        "answer_tw": "相信過程。",
+        "answer_en": "Trust the process.",
+        "from": "答案之书"
+    },
+    {
+        "id": 56,
+        "answer": "也许结果不重要。",
+        "answer_tw": "也許結果不重要。",
+        "answer_en": "Maybe the result doesn't matter.",
+        "from": "答案之书"
+    },
+    {
+        "id": 57,
+        "answer": "享受当下。",
+        "answer_tw": "享受當下。",
+        "answer_en": "Enjoy the moment.",
+        "from": "答案之书"
+    },
+    {
+        "id": 58,
+        "answer": "停止担心未来。",
+        "answer_tw": "停止擔心未來。",
+        "answer_en": "Stop worrying about the future.",
+        "from": "答案之书"
+    },
+    {
+        "id": 59,
+        "answer": "问问内心深处的自己。",
+        "answer_tw": "問問內心深處的自己。",
+        "answer_en": "Ask your inner self.",
+        "from": "答案之书"
+    },
+    {
+        "id": 60,
+        "answer": "听听长辈的建议。",
+        "answer_tw": "聽聽長輩的建議。",
+        "answer_en": "Listen to your elders.",
+        "from": "答案之书"
+    },
+    {
+        "id": 61,
+        "answer": "翻开新的一页。",
+        "answer_tw": "翻開新的一頁。",
+        "answer_en": "Turn over a new leaf.",
+        "from": "答案之书"
+    },
+    {
+        "id": 62,
+        "answer": "保守秘密是关键。",
+        "answer_tw": "保守秘密是關鍵。",
+        "answer_en": "Keeping secrets is key.",
+        "from": "答案之书"
+    },
+    {
+        "id": 63,
+        "answer": "值得尝试。",
+        "answer_tw": "值得嘗試。",
+        "answer_en": "Worth trying.",
+        "from": "答案之书"
+    },
+    {
+        "id": 64,
+        "answer": "你需要休息。",
+        "answer_tw": "你需要休息。",
+        "answer_en": "You need rest.",
+        "from": "答案之书"
+    },
+    {
+        "id": 65,
+        "answer": "答案可能在远方。",
+        "answer_tw": "答案可能在遠方。",
+        "answer_en": "The answer may be far away.",
+        "from": "答案之书"
+    },
+    {
+        "id": 66,
+        "answer": "学会等待。",
+        "answer_tw": "學會等待。",
+        "answer_en": "Learn to wait.",
+        "from": "答案之书"
+    },
+    {
+        "id": 67,
+        "answer": "这是一次考验。",
+        "answer_tw": "這是一次考驗。",
+        "answer_en": "This is a test.",
+        "from": "答案之书"
+    },
+    {
+        "id": 68,
+        "answer": "无论如何都要坚持。",
+        "answer_tw": "無論如何都要堅持。",
+        "answer_en": "No matter what, persevere.",
+        "from": "答案之书"
+    },
+    {
+        "id": 69,
+        "answer": "考虑长远影响。",
+        "answer_tw": "考慮長遠影響。",
+        "answer_en": "Consider the long-term impact.",
+        "from": "答案之书"
+    },
+    {
+        "id": 70,
+        "answer": "结果可能出乎意料。",
+        "answer_tw": "結果可能出乎意料。",
+        "answer_en": "Results may be unexpected.",
+        "from": "答案之书"
+    },
+    {
+        "id": 71,
+        "answer": "不要逃避现实。",
+        "answer_tw": "不要逃避現實。",
+        "answer_en": "Don't avoid reality.",
+        "from": "答案之书"
+    },
+    {
+        "id": 72,
+        "answer": "集中注意力在目标上。",
+        "answer_tw": "集中注意力在目標上。",
+        "answer_en": "Focus on your goals.",
+        "from": "答案之书"
+    },
+    {
+        "id": 73,
+        "answer": "你忽略了某些细节。",
+        "answer_tw": "你忽略了某些細節。",
+        "answer_en": "You overlooked some details.",
+        "from": "答案之书"
+    },
+    {
+        "id": 74,
+        "answer": "先处理内心的情绪。",
+        "answer_tw": "先處理內心的情緒。",
+        "answer_en": "Deal with your emotions first.",
+        "from": "答案之书"
+    },
+    {
+        "id": 75,
+        "answer": "你需要一个计划。",
+        "answer_tw": "你需要一個計劃。",
+        "answer_en": "You need a plan.",
+        "from": "答案之书"
+    },
+    {
+        "id": 76,
+        "answer": "不要急于求成。",
+        "answer_tw": "不要急於求成。",
+        "answer_en": "Don't rush success.",
+        "from": "答案之书"
+    },
+    {
+        "id": 77,
+        "answer": "成功近在咫尺。",
+        "answer_tw": "成功近在咫尺。",
+        "answer_en": "Success is near.",
+        "from": "答案之书"
+    },
+    {
+        "id": 78,
+        "answer": "失败只是暂时的。",
+        "answer_tw": "失敗只是暫時的。",
+        "answer_en": "Failure is temporary.",
+        "from": "答案之书"
+    },
+    {
+        "id": 79,
+        "answer": "你被误导了。",
+        "answer_tw": "你被誤導了。",
+        "answer_en": "You have been misled.",
+        "from": "答案之书"
+    },
+    {
+        "id": 80,
+        "answer": "这是命中注定的缘分。",
+        "answer_tw": "這是命中注定的緣分。",
+        "answer_en": "This is destined fate.",
+        "from": "答案之书"
+    },
+    {
+        "id": 81,
+        "answer": "注意你的表达方式。",
+        "answer_tw": "注意你的表達方式。",
+        "answer_en": "Mind your words.",
+        "from": "答案之书"
+    },
+    {
+        "id": 82,
+        "answer": "机会不止这一次。",
+        "answer_tw": "機會不止這一次。",
+        "answer_en": "Opportunities come more than once.",
+        "from": "答案之书"
+    },
+    {
+        "id": 83,
+        "answer": "有些事无法强求。",
+        "answer_tw": "有些事無法強求。",
+        "answer_en": "Some things can't be forced.",
+        "from": "答案之书"
+    },
+    {
+        "id": 84,
+        "answer": "主动出击。",
+        "answer_tw": "主動出擊。",
+        "answer_en": "Take initiative.",
+        "from": "答案之书"
+    },
+    {
+        "id": 85,
+        "answer": "保持开放的心态。",
+        "answer_tw": "保持開放的心態。",
+        "answer_en": "Keep an open mind.",
+        "from": "答案之书"
+    },
+    {
+        "id": 86,
+        "answer": "不试试你永远不知道。",
+        "answer_tw": "不試試你永遠不知道。",
+        "answer_en": "You never know until you try.",
+        "from": "答案之书"
+    },
+    {
+        "id": 87,
+        "answer": "看清楚事实真相。",
+        "answer_tw": "看清楚事實真相。",
+        "answer_en": "See the truth clearly.",
+        "from": "答案之书"
+    },
+    {
+        "id": 88,
+        "answer": "你已经在正确的路上。",
+        "answer_tw": "你已經在正確的路上。",
+        "answer_en": "You are on the right path.",
+        "from": "答案之书"
+    },
+    {
+        "id": 89,
+        "answer": "你值得拥有这一切。",
+        "answer_tw": "你值得擁有這一切。",
+        "answer_en": "You deserve all this.",
+        "from": "答案之书"
+    },
+    {
+        "id": 90,
+        "answer": "它可能不值得你投入。",
+        "answer_tw": "它可能不值得你投入。",
+        "answer_en": "It may not be worth your investment.",
+        "from": "答案之书"
+    },
+    {
+        "id": 91,
+        "answer": "追随你的热情。",
+        "answer_tw": "追隨你的熱情。",
+        "answer_en": "Follow your passion.",
+        "from": "答案之书"
+    },
+    {
+        "id": 92,
+        "answer": "先处理眼前的事情。",
+        "answer_tw": "先處理眼前的事情。",
+        "answer_en": "Deal with the present first.",
+        "from": "答案之书"
+    },
+    {
+        "id": 93,
+        "answer": "尝试独处。",
+        "answer_tw": "嘗試獨處。",
+        "answer_en": "Try solitude.",
+        "from": "答案之书"
+    },
+    {
+        "id": 94,
+        "answer": "事情会自然解决。",
+        "answer_tw": "事情會自然解決。",
+        "answer_en": "Things will resolve naturally.",
+        "from": "答案之书"
+    },
+    {
+        "id": 95,
+        "answer": "不要轻易承诺。",
+        "answer_tw": "不要輕易承諾。",
+        "answer_en": "Don't make promises lightly.",
+        "from": "答案之书"
+    },
+    {
+        "id": 96,
+        "answer": "你不必迎合别人。",
+        "answer_tw": "你不必迎合別人。",
+        "answer_en": "You don't have to please others.",
+        "from": "答案之书"
+    },
+    {
+        "id": 97,
+        "answer": "你已经做得够好了。",
+        "answer_tw": "你已經做得夠好了。",
+        "answer_en": "You have done enough.",
+        "from": "答案之书"
+    },
+    {
+        "id": 98,
+        "answer": "不必太在意别人的看法。",
+        "answer_tw": "不必太在意別人的看法。",
+        "answer_en": "Don't care too much about others' opinions.",
+        "from": "答案之书"
+    },
+    {
+        "id": 99,
+        "answer": "再给它一次机会。",
+        "answer_tw": "再給它一次機會。",
+        "answer_en": "Give it another chance.",
+        "from": "答案之书"
+    },
+    {
+        "id": 100,
+        "answer": "你将获得意想不到的惊喜。",
+        "answer_tw": "你將獲得意想不到的驚喜。",
+        "answer_en": "You will get unexpected surprises.",
+        "from": "答案之书"
+    },
+    {
+        "id": 101,
+        "answer": "一切都是最好的安排。",
+        "answer_tw": "一切都是最好的安排。",
+        "answer_en": "Everything is for the best.",
+        "from": "答案之书"
+    },
+    {
+        "id": 102,
+        "answer": "你心中已有答案。",
+        "answer_tw": "你心中已有答案。",
+        "answer_en": "The answer is already in your heart.",
+        "from": "答案之书"
+    },
+    {
+        "id": 103,
+        "answer": "答案并不唯一。",
+        "answer_tw": "答案並不唯一。",
+        "answer_en": "The answer is not unique.",
+        "from": "答案之书"
+    },
+    {
+        "id": 104,
+        "answer": "走一步算一步。",
+        "answer_tw": "走一步算一步。",
+        "answer_en": "Take it step by step.",
+        "from": "答案之书"
+    },
+    {
+        "id": 105,
+        "answer": "结果无关紧要，过程才是关键。",
+        "answer_tw": "結果無關緊要，過程才是關鍵。",
+        "answer_en": "The result doesn't matter, the process does.",
+        "from": "答案之书"
+    },
+    {
+        "id": 106,
+        "answer": "放轻松，一切都会好起来。",
+        "answer_tw": "放輕鬆，一切都會好起來。",
+        "answer_en": "Relax, everything will be fine.",
+        "from": "答案之书"
+    },
+    {
+        "id": 107,
+        "answer": "明天会更清晰。",
+        "answer_tw": "明天會更清晰。",
+        "answer_en": "Tomorrow will be clearer.",
+        "from": "答案之书"
+    },
+    {
+        "id": 108,
+        "answer": "这将成为美好的回忆。",
+        "answer_tw": "這將成為美好的回憶。",
+        "answer_en": "This will become a beautiful memory.",
+        "from": "答案之书"
+    },
+    {
+        "id": 109,
+        "answer": "你正被好运包围。",
+        "answer_tw": "你正被好運包圍。",
+        "answer_en": "You are surrounded by good luck.",
+        "from": "答案之书"
+    },
+    {
+        "id": 110,
+        "answer": "如果你相信，它就会发生。",
+        "answer_tw": "如果你相信，它就會發生。",
+        "answer_en": "If you believe, it will happen.",
+        "from": "答案之书"
+    },
+    {
+        "id": 111,
+        "answer": "你已经走得够远，现在可以休息一下了。",
+        "answer_tw": "你已經走得夠遠，現在可以休息一下了。",
+        "answer_en": "You've come far enough, now it's time to rest.",
+        "from": "答案之书"
+    },
+    {
+        "id": 112,
+        "answer": "只要迈出第一步，一切都会不同。",
+        "answer_tw": "只要邁出第一步，一切都會不同。",
+        "answer_en": "Just take the first step, everything will change.",
+        "from": "答案之书"
+    }
+]

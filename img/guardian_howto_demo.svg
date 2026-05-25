@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-label="光点守护三步示例">
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fffaf0"/>
+      <stop offset="58%" stop-color="#f8ead5"/>
+      <stop offset="100%" stop-color="#f0d2a8"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#b7102a"/>
+      <stop offset="55%" stop-color="#d68a3a"/>
+      <stop offset="100%" stop-color="#f2c56e"/>
+    </linearGradient>
+    <radialGradient id="light" cx="52%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#fff7d8"/>
+      <stop offset="60%" stop-color="#e5b66b" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#e5b66b" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#7b3c21" flood-opacity=".16"/>
+    </filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="720" height="360" rx="30" fill="url(#paper)"/>
+  <circle cx="640" cy="30" r="120" fill="#fff7e6" opacity=".72"/>
+  <path d="M528 0c-32 74-86 125-166 160-83 37-145 80-190 200H720V0Z" fill="#eac18a" opacity=".18"/>
+  <text x="30" y="42" fill="#743721" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="28" font-weight="800">如何完成一次光点守护</text>
+  <text x="30" y="72" fill="#9a6a48" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="16">从地图光点进入宫庙详情，每日点亮一束克拉能量。</text>
+
+  <g transform="translate(30 96)" filter="url(#shadow)">
+    <rect width="660" height="142" rx="24" fill="#fff8eb" stroke="#e8c899"/>
+    <rect x="18" y="17" width="280" height="108" rx="18" fill="#f5e3c9"/>
+    <path d="M91 82c28-32 58-54 104-50 29 3 48 17 68 35-37 8-58 28-93 41-34 12-58 0-79-26Z" fill="#d6b37b" opacity=".55"/>
+    <path d="M49 95c48-16 74-42 117-33 36 8 54 31 96 24" fill="none" stroke="#fff8e8" stroke-width="4" opacity=".7"/>
+    <g transform="translate(184 64)" filter="url(#glow)">
+      <circle r="15" fill="#f7c76c"/>
+      <circle r="24" fill="none" stroke="#ffd886" stroke-width="3" opacity=".65"/>
+      <path d="M0-22 5-5 22 0 5 5 0 22-5 5-22 0-5-5Z" fill="#fff6d5"/>
+    </g>
+    <path d="M310 71h54" stroke="#d68a3a" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 8"/>
+    <g transform="translate(372 26)">
+      <rect width="118" height="90" rx="18" fill="#fffdf5" stroke="#edcf9f"/>
+      <circle cx="30" cy="28" r="18" fill="#ffe4ad"/>
+      <text x="30" y="36" text-anchor="middle" fill="#b35d2b" font-family="Arial" font-size="24" font-weight="800">1</text>
+      <text x="18" y="62" fill="#743721" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="800">点开光点</text>
+      <text x="18" y="82" fill="#9a6a48" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13">进入宫庙详情</text>
+    </g>
+    <path d="M498 71h38" stroke="#d68a3a" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 8"/>
+    <g transform="translate(542 26)">
+      <rect width="100" height="90" rx="18" fill="#fffdf5" stroke="#edcf9f"/>
+      <circle cx="26" cy="28" r="18" fill="#ffe4ad"/>
+      <text x="26" y="36" text-anchor="middle" fill="#b35d2b" font-family="Arial" font-size="24" font-weight="800">2</text>
+      <text x="16" y="62" fill="#743721" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="800">每日守护</text>
+      <text x="16" y="82" fill="#9a6a48" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="13">能量 +10</text>
+    </g>
+  </g>
+
+  <g transform="translate(30 260)">
+    <rect width="660" height="72" rx="22" fill="#fff5df" stroke="#e8c899"/>
+    <circle cx="52" cy="36" r="23" fill="url(#light)"/>
+    <path d="M30 32 43 18h34l13 14-30 31Z" fill="#fffaf0" stroke="#f1cf95" stroke-width="2"/>
+    <path d="M43 18 60 63 77 18M30 32h60" stroke="#ffffff" stroke-width="2" opacity=".8"/>
+    <circle cx="168" cy="36" r="18" fill="#ffe4ad"/>
+    <text x="168" y="44" text-anchor="middle" fill="#b35d2b" font-family="Arial" font-size="24" font-weight="800">3</text>
+    <text x="204" y="34" fill="#743721" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="800">满额捐钻</text>
+    <text x="204" y="58" fill="#9a6a48" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="15">能量达到 100% 后，克拉能量执行妈祖能量钻公益捐赠。</text>
+  </g>
+</svg>

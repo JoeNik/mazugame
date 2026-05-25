@@ -1,0 +1,1610 @@
+[
+    {
+        "id": 1,
+        "answer": "寻求更多的选择",
+        "from": "答案之书",
+        "answer_en": "Look for more options"
+    },
+    {
+        "id": 2,
+        "answer": "不",
+        "from": "答案之书",
+        "answer_en": "No"
+    },
+    {
+        "id": 3,
+        "answer": "别忽视显而易见的东西",
+        "from": "答案之书",
+        "answer_en": "Don't ignore the obvious"
+    },
+    {
+        "id": 4,
+        "answer": "结果可能令人吃惊",
+        "from": "答案之书",
+        "answer_en": "The outcome may surprise you"
+    },
+    {
+        "id": 5,
+        "answer": "有决心就能成功",
+        "from": "答案之书",
+        "answer_en": "Determination will bring success"
+    },
+    {
+        "id": 6,
+        "answer": "做一次改变",
+        "from": "答案之书",
+        "answer_en": "Make a change"
+    },
+    {
+        "id": 7,
+        "answer": "照别人告诉你的去做",
+        "from": "答案之书",
+        "answer_en": "Do what others tell you"
+    },
+    {
+        "id": 8,
+        "answer": "不能保证",
+        "from": "答案之书",
+        "answer_en": "It is not guaranteed"
+    },
+    {
+        "id": 9,
+        "answer": "答案可能会以另一种形式出现",
+        "from": "答案之书",
+        "answer_en": "The answer may come in another form"
+    },
+    {
+        "id": 10,
+        "answer": "毫无疑问",
+        "from": "答案之书",
+        "answer_en": "Without a doubt"
+    },
+    {
+        "id": 11,
+        "answer": "这样做会使事情变得有趣",
+        "from": "答案之书",
+        "answer_en": "This will make things more interesting"
+    },
+    {
+        "id": 12,
+        "answer": "这是肯定的",
+        "from": "答案之书",
+        "answer_en": "It is certain"
+    },
+    {
+        "id": 13,
+        "answer": "有可能会伤害到他人",
+        "from": "答案之书",
+        "answer_en": "It may hurt someone"
+    },
+    {
+        "id": 14,
+        "answer": "全身心投入将赢得好结果",
+        "from": "答案之书",
+        "answer_en": "Total commitment will bring good results"
+    },
+    {
+        "id": 15,
+        "answer": "采取冒险的态度",
+        "from": "答案之书",
+        "answer_en": "Take a risk"
+    },
+    {
+        "id": 16,
+        "answer": "最好等待",
+        "from": "答案之书",
+        "answer_en": "It is best to wait"
+    },
+    {
+        "id": 17,
+        "answer": "可能会惹上麻烦",
+        "from": "答案之书",
+        "answer_en": "It could get you in trouble"
+    },
+    {
+        "id": 18,
+        "answer": "你需要采取主动",
+        "from": "答案之书",
+        "answer_en": "You need to take the initiative"
+    },
+    {
+        "id": 19,
+        "answer": "似乎没问题",
+        "from": "答案之书",
+        "answer_en": "It seems fine"
+    },
+    {
+        "id": 20,
+        "answer": "当然",
+        "from": "答案之书",
+        "answer_en": "Of course"
+    },
+    {
+        "id": 21,
+        "answer": "不要在意",
+        "from": "答案之书",
+        "answer_en": "Don't worry about it"
+    },
+    {
+        "id": 22,
+        "answer": "尽早做好它",
+        "from": "答案之书",
+        "answer_en": "Do it as soon as possible"
+    },
+    {
+        "id": 23,
+        "answer": "你终会发现你想知道的一切",
+        "from": "答案之书",
+        "answer_en": "You will eventually discover all you need to know"
+    },
+    {
+        "id": 24,
+        "answer": "除非你独自一人",
+        "from": "答案之书",
+        "answer_en": "Unless you are alone"
+    },
+    {
+        "id": 25,
+        "answer": "是，但不要强求",
+        "from": "答案之书",
+        "answer_en": "Yes, but don't force it"
+    },
+    {
+        "id": 26,
+        "answer": "你需要去适应",
+        "from": "答案之书",
+        "answer_en": "You need to adapt"
+    },
+    {
+        "id": 27,
+        "answer": "明天再来试试",
+        "from": "答案之书",
+        "answer_en": "Try again tomorrow"
+    },
+    {
+        "id": 28,
+        "answer": "以更放松的态度去面对",
+        "from": "答案之书",
+        "answer_en": "Approach it with more relaxation"
+    },
+    {
+        "id": 29,
+        "answer": "你需要考虑其他方法",
+        "from": "答案之书",
+        "answer_en": "You need to consider other options"
+    },
+    {
+        "id": 30,
+        "answer": "在习惯中接受一些改变",
+        "from": "答案之书",
+        "answer_en": "Accept some change in your routine"
+    },
+    {
+        "id": 31,
+        "answer": "要知道选择太多和选择太少一样很难",
+        "from": "答案之书",
+        "answer_en": "Too many choices can be as difficult as too few"
+    },
+    {
+        "id": 32,
+        "answer": "别浪费时间了",
+        "from": "答案之书",
+        "answer_en": "Don't waste your time"
+    },
+    {
+        "id": 33,
+        "answer": "是",
+        "from": "答案之书",
+        "answer_en": "Yes"
+    },
+    {
+        "id": 34,
+        "answer": "花更多时间来决定",
+        "from": "答案之书",
+        "answer_en": "Spend more time deciding"
+    },
+    {
+        "id": 35,
+        "answer": "灵活应对",
+        "from": "答案之书",
+        "answer_en": "Be flexible"
+    },
+    {
+        "id": 36,
+        "answer": "似乎已成事实",
+        "from": "答案之书",
+        "answer_en": "It appears to be a fact"
+    },
+    {
+        "id": 37,
+        "answer": "看开一点",
+        "from": "答案之书",
+        "answer_en": "Look on the bright side"
+    },
+    {
+        "id": 38,
+        "answer": "问问你的异性同事",
+        "from": "答案之书",
+        "answer_en": "Ask your opposite-sex colleague"
+    },
+    {
+        "id": 39,
+        "answer": "柳暗花明又一村",
+        "from": "答案之书",
+        "answer_en": "There is light at the end of the tunnel"
+    },
+    {
+        "id": 40,
+        "answer": "你会后悔的",
+        "from": "答案之书",
+        "answer_en": "You will regret it"
+    },
+    {
+        "id": 41,
+        "answer": "避免第一个解决办法",
+        "from": "答案之书",
+        "answer_en": "Avoid the first solution"
+    },
+    {
+        "id": 42,
+        "answer": "随它去吧",
+        "from": "答案之书",
+        "answer_en": "Let it go"
+    },
+    {
+        "id": 43,
+        "answer": "过段时间就不那么重要了",
+        "from": "答案之书",
+        "answer_en": "It won't matter in time"
+    },
+    {
+        "id": 44,
+        "answer": "拭目以待",
+        "from": "答案之书",
+        "answer_en": "Wait and see"
+    },
+    {
+        "id": 45,
+        "answer": "相信你最初的想法",
+        "from": "答案之书",
+        "answer_en": "Trust your first thought"
+    },
+    {
+        "id": 46,
+        "answer": "请不要抗拒",
+        "from": "答案之书",
+        "answer_en": "Don't resist"
+    },
+    {
+        "id": 47,
+        "answer": "这会带来好运",
+        "from": "答案之书",
+        "answer_en": "This will bring good luck"
+    },
+    {
+        "id": 48,
+        "answer": "那一定很棒",
+        "from": "答案之书",
+        "answer_en": "That would be wonderful"
+    },
+    {
+        "id": 49,
+        "answer": "把它记下来",
+        "from": "答案之书",
+        "answer_en": "Write it down"
+    },
+    {
+        "id": 50,
+        "answer": "可能发生小意外",
+        "from": "答案之书",
+        "answer_en": "A minor accident may occur"
+    },
+    {
+        "id": 51,
+        "answer": "学习并享受它",
+        "from": "答案之书",
+        "answer_en": "Learn and enjoy it"
+    },
+    {
+        "id": 52,
+        "answer": "这具有重要意义",
+        "from": "答案之书",
+        "answer_en": "This is significant"
+    },
+    {
+        "id": 53,
+        "answer": "防备意外发生",
+        "from": "答案之书",
+        "answer_en": "Prepare for the unexpected"
+    },
+    {
+        "id": 54,
+        "answer": "一切将依赖于你的选择",
+        "from": "答案之书",
+        "answer_en": "Everything depends on your choice"
+    },
+    {
+        "id": 55,
+        "answer": "转移注意力",
+        "from": "答案之书",
+        "answer_en": "Distract yourself"
+    },
+    {
+        "id": 56,
+        "answer": "离开",
+        "from": "答案之书",
+        "answer_en": "Leave"
+    },
+    {
+        "id": 57,
+        "answer": "你需要其他人的帮助",
+        "from": "答案之书",
+        "answer_en": "You need help from others"
+    },
+    {
+        "id": 58,
+        "answer": "这有些特别",
+        "from": "答案之书",
+        "answer_en": "This is special"
+    },
+    {
+        "id": 59,
+        "answer": "不要犹豫",
+        "from": "答案之书",
+        "answer_en": "Don't hesitate"
+    },
+    {
+        "id": 60,
+        "answer": "先完成其他事",
+        "from": "答案之书",
+        "answer_en": "Finish other things first"
+    },
+    {
+        "id": 61,
+        "answer": "给自己一点时间",
+        "from": "答案之书",
+        "answer_en": "Give yourself some time"
+    },
+    {
+        "id": 62,
+        "answer": "现在你就能",
+        "from": "答案之书",
+        "answer_en": "You can do it now"
+    },
+    {
+        "id": 63,
+        "answer": "那不值得纠结",
+        "from": "答案之书",
+        "answer_en": "It's not worth worrying about"
+    },
+    {
+        "id": 64,
+        "answer": "那将影响别人对你的看法",
+        "from": "答案之书",
+        "answer_en": "It will affect how others see you"
+    },
+    {
+        "id": 65,
+        "answer": "照别人说的去做",
+        "from": "答案之书",
+        "answer_en": "Do what others say"
+    },
+    {
+        "id": 66,
+        "answer": "转移你的注意力",
+        "from": "答案之书",
+        "answer_en": "Shift your attention"
+    },
+    {
+        "id": 67,
+        "answer": "你会失望的",
+        "from": "答案之书",
+        "answer_en": "You will be disappointed"
+    },
+    {
+        "id": 68,
+        "answer": "最好关注你的工作",
+        "from": "答案之书",
+        "answer_en": "Focus on your work"
+    },
+    {
+        "id": 69,
+        "answer": "形式尚不明朗",
+        "from": "答案之书",
+        "answer_en": "The situation is unclear"
+    },
+    {
+        "id": 70,
+        "answer": "不要抱有成见",
+        "from": "答案之书",
+        "answer_en": "Don't have preconceptions"
+    },
+    {
+        "id": 71,
+        "answer": "你必须现在就行动",
+        "from": "答案之书",
+        "answer_en": "You must act now"
+    },
+    {
+        "id": 72,
+        "answer": "那可能很难，但值得",
+        "from": "答案之书",
+        "answer_en": "It may be difficult but worthwhile"
+    },
+    {
+        "id": 73,
+        "answer": "付出就会有回报",
+        "from": "答案之书",
+        "answer_en": "Effort will be rewarded"
+    },
+    {
+        "id": 74,
+        "answer": "对意外要有思想准备",
+        "from": "答案之书",
+        "answer_en": "Be prepared for the unexpected"
+    },
+    {
+        "id": 75,
+        "answer": "更细心地去倾听，你就会知道",
+        "from": "答案之书",
+        "answer_en": "Listen more carefully and you will know"
+    },
+    {
+        "id": 76,
+        "answer": "且行且思",
+        "from": "答案之书",
+        "answer_en": "Proceed thoughtfully"
+    },
+    {
+        "id": 77,
+        "answer": "你有能力以任何方式改善",
+        "from": "答案之书",
+        "answer_en": "You have the ability to improve in any way"
+    },
+    {
+        "id": 78,
+        "answer": "这是你不会忘记的事物",
+        "from": "答案之书",
+        "answer_en": "This is something you won't forget"
+    },
+    {
+        "id": 79,
+        "answer": "履行你的义务",
+        "from": "答案之书",
+        "answer_en": "Fulfill your obligations"
+    },
+    {
+        "id": 80,
+        "answer": "快刀斩乱麻",
+        "from": "答案之书",
+        "answer_en": "Cut through the knot"
+    },
+    {
+        "id": 81,
+        "answer": "别在这上面下赌注",
+        "from": "答案之书",
+        "answer_en": "Don't bet on it"
+    },
+    {
+        "id": 82,
+        "answer": "也许吧",
+        "from": "答案之书",
+        "answer_en": "Maybe"
+    },
+    {
+        "id": 83,
+        "answer": "专注于你的家庭生活",
+        "from": "答案之书",
+        "answer_en": "Focus on your family life"
+    },
+    {
+        "id": 84,
+        "answer": "绝对不",
+        "from": "答案之书",
+        "answer_en": "Absolutely not"
+    },
+    {
+        "id": 85,
+        "answer": "等待",
+        "from": "答案之书",
+        "answer_en": "Wait"
+    },
+    {
+        "id": 86,
+        "answer": "别犯傻了",
+        "from": "答案之书",
+        "answer_en": "Don't be silly"
+    },
+    {
+        "id": 87,
+        "answer": "可能吧",
+        "from": "答案之书",
+        "answer_en": "Possibly"
+    },
+    {
+        "id": 88,
+        "answer": "表示怀疑",
+        "from": "答案之书",
+        "answer_en": "Be skeptical"
+    },
+    {
+        "id": 89,
+        "answer": "意义非凡",
+        "from": "答案之书",
+        "answer_en": "It has great significance"
+    },
+    {
+        "id": 90,
+        "answer": "那可能非同寻常",
+        "from": "答案之书",
+        "answer_en": "It may be extraordinary"
+    },
+    {
+        "id": 91,
+        "answer": "不可能失败",
+        "from": "答案之书",
+        "answer_en": "It cannot fail"
+    },
+    {
+        "id": 92,
+        "answer": "你需要了解更多",
+        "from": "答案之书",
+        "answer_en": "You need more information"
+    },
+    {
+        "id": 93,
+        "answer": "情况很快就会有变化",
+        "from": "答案之书",
+        "answer_en": "Things will change soon"
+    },
+    {
+        "id": 94,
+        "answer": "这并不重要",
+        "from": "答案之书",
+        "answer_en": "It is not important"
+    },
+    {
+        "id": 95,
+        "answer": "顺其自然",
+        "from": "答案之书",
+        "answer_en": "Let it be"
+    },
+    {
+        "id": 96,
+        "answer": "问问你最好的朋友",
+        "from": "答案之书",
+        "answer_en": "Ask your best friend"
+    },
+    {
+        "id": 97,
+        "answer": "这时不要再自找麻烦",
+        "from": "答案之书",
+        "answer_en": "Don't look for trouble now"
+    },
+    {
+        "id": 98,
+        "answer": "晚一点处理",
+        "from": "答案之书",
+        "answer_en": "Handle it later"
+    },
+    {
+        "id": 99,
+        "answer": "尝试一种更可能的解决方案",
+        "from": "答案之书",
+        "answer_en": "Try a more likely solution"
+    },
+    {
+        "id": 100,
+        "answer": "先做重要的事",
+        "from": "答案之书",
+        "answer_en": "Do the important things first"
+    },
+    {
+        "id": 101,
+        "answer": "投硬币来做决定吧",
+        "from": "答案之书",
+        "answer_en": "Flip a coin"
+    },
+    {
+        "id": 102,
+        "answer": "这也取决于另一种情况",
+        "from": "答案之书",
+        "answer_en": "It also depends on another situation"
+    },
+    {
+        "id": 103,
+        "answer": "你最终能如愿",
+        "from": "答案之书",
+        "answer_en": "You will eventually get what you want"
+    },
+    {
+        "id": 104,
+        "answer": "可行",
+        "from": "答案之书",
+        "answer_en": "It is feasible"
+    },
+    {
+        "id": 105,
+        "answer": "答案就在你家窗外",
+        "from": "答案之书",
+        "answer_en": "The answer is just outside your window"
+    },
+    {
+        "id": 106,
+        "answer": "现在的你比以往任何时候都清楚",
+        "from": "答案之书",
+        "answer_en": "You know more now than ever before"
+    },
+    {
+        "id": 107,
+        "answer": "只需说声“谢谢”",
+        "from": "答案之书",
+        "answer_en": "Just say thank you"
+    },
+    {
+        "id": 108,
+        "answer": "或许，等你再年长些就明白了",
+        "from": "答案之书",
+        "answer_en": "Perhaps when you are older you will understand"
+    },
+    {
+        "id": 109,
+        "answer": "这将轰动一时",
+        "from": "答案之书",
+        "answer_en": "This will create a sensation"
+    },
+    {
+        "id": 110,
+        "answer": "放手一搏",
+        "from": "答案之书",
+        "answer_en": "Go for it"
+    },
+    {
+        "id": 111,
+        "answer": "事情会朝目标发展",
+        "from": "答案之书",
+        "answer_en": "Things will move toward your goal"
+    },
+    {
+        "id": 112,
+        "answer": "更细心去了解，你就知道该怎么做了",
+        "from": "答案之书",
+        "answer_en": "Understand more carefully and you will know what to do"
+    },
+    {
+        "id": 113,
+        "answer": "需要做更多的努力",
+        "from": "答案之书",
+        "answer_en": "More effort is needed"
+    },
+    {
+        "id": 114,
+        "answer": "等待一个更好的机会",
+        "from": "答案之书",
+        "answer_en": "Wait for a better opportunity"
+    },
+    {
+        "id": 115,
+        "answer": "数到5，再试一次",
+        "from": "答案之书",
+        "answer_en": "Count to 5 and try again"
+    },
+    {
+        "id": 116,
+        "answer": "你不得不妥协",
+        "from": "答案之书",
+        "answer_en": "You will have to compromise"
+    },
+    {
+        "id": 117,
+        "answer": "很快就能解决",
+        "from": "答案之书",
+        "answer_en": "It will be resolved soon"
+    },
+    {
+        "id": 118,
+        "answer": "十分确定",
+        "from": "答案之书",
+        "answer_en": "It is quite certain"
+    },
+    {
+        "id": 119,
+        "answer": "这还不确定",
+        "from": "答案之书",
+        "answer_en": "It is not certain yet"
+    },
+    {
+        "id": 120,
+        "answer": "谨慎处理",
+        "from": "答案之书",
+        "answer_en": "Handle with care"
+    },
+    {
+        "id": 121,
+        "answer": "全力以赴",
+        "from": "答案之书",
+        "answer_en": "Go all out"
+    },
+    {
+        "id": 122,
+        "answer": "重新考虑你的做法",
+        "from": "答案之书",
+        "answer_en": "Reconsider your approach"
+    },
+    {
+        "id": 123,
+        "answer": "问问你的母亲吧",
+        "from": "答案之书",
+        "answer_en": "Ask your mother"
+    },
+    {
+        "id": 124,
+        "answer": "如果你独自一人就不要",
+        "from": "答案之书",
+        "answer_en": "Don't do it if you are alone"
+    },
+    {
+        "id": 125,
+        "answer": "无需担忧",
+        "from": "答案之书",
+        "answer_en": "No need to worry"
+    },
+    {
+        "id": 126,
+        "answer": "保持开放的心态",
+        "from": "答案之书",
+        "answer_en": "Keep an open mind"
+    },
+    {
+        "id": 127,
+        "answer": "你会为自己所做的感到高兴的",
+        "from": "答案之书",
+        "answer_en": "You will be glad you did it"
+    },
+    {
+        "id": 128,
+        "answer": "发挥你的想象力",
+        "from": "答案之书",
+        "answer_en": "Use your imagination"
+    },
+    {
+        "id": 129,
+        "answer": "献出你的一切",
+        "from": "答案之书",
+        "answer_en": "Give it your all"
+    },
+    {
+        "id": 130,
+        "answer": "顺从你的意愿",
+        "from": "答案之书",
+        "answer_en": "Follow your wishes"
+    },
+    {
+        "id": 131,
+        "answer": "先做好自己的事",
+        "from": "答案之书",
+        "answer_en": "Take care of your own business first"
+    },
+    {
+        "id": 132,
+        "answer": "不要怀疑",
+        "from": "答案之书",
+        "answer_en": "Don't doubt"
+    },
+    {
+        "id": 133,
+        "answer": "是时候做新打算了",
+        "from": "答案之书",
+        "answer_en": "It is time to make new plans"
+    },
+    {
+        "id": 134,
+        "answer": "省省力气吧",
+        "from": "答案之书",
+        "answer_en": "Save your energy"
+    },
+    {
+        "id": 135,
+        "answer": "合作将是关键",
+        "from": "答案之书",
+        "answer_en": "Cooperation will be the key"
+    },
+    {
+        "id": 136,
+        "answer": "此时不宜",
+        "from": "答案之书",
+        "answer_en": "Not now"
+    },
+    {
+        "id": 137,
+        "answer": "把这看做一次机会",
+        "from": "答案之书",
+        "answer_en": "See this as an opportunity"
+    },
+    {
+        "id": 138,
+        "answer": "莫等待",
+        "from": "答案之书",
+        "answer_en": "Don't wait"
+    },
+    {
+        "id": 139,
+        "answer": "你可能不得不放弃其他东西",
+        "from": "答案之书",
+        "answer_en": "You may have to give up something else"
+    },
+    {
+        "id": 140,
+        "answer": "遵守规则",
+        "from": "答案之书",
+        "answer_en": "Follow the rules"
+    },
+    {
+        "id": 141,
+        "answer": "相关问题可能会出现",
+        "from": "答案之书",
+        "answer_en": "Related problems may arise"
+    },
+    {
+        "id": 142,
+        "answer": "事情将如你所愿",
+        "from": "答案之书",
+        "answer_en": "Things will go as you wish"
+    },
+    {
+        "id": 143,
+        "answer": "赌一把",
+        "from": "答案之书",
+        "answer_en": "Take a chance"
+    },
+    {
+        "id": 144,
+        "answer": "以后再处理",
+        "from": "答案之书",
+        "answer_en": "Deal with it later"
+    },
+    {
+        "id": 145,
+        "answer": "结果是乐观的",
+        "from": "答案之书",
+        "answer_en": "The outlook is optimistic"
+    },
+    {
+        "id": 146,
+        "answer": "期待解决",
+        "from": "答案之书",
+        "answer_en": "Expect a resolution"
+    },
+    {
+        "id": 147,
+        "answer": "灵活应对",
+        "from": "答案之书",
+        "answer_en": "Be flexible"
+    },
+    {
+        "id": 148,
+        "answer": "注意细节",
+        "from": "答案之书",
+        "answer_en": "Pay attention to details"
+    },
+    {
+        "id": 149,
+        "answer": "你的行动会使一切变好",
+        "from": "答案之书",
+        "answer_en": "Your actions will make everything better"
+    },
+    {
+        "id": 150,
+        "answer": "答案就在公园里",
+        "from": "答案之书",
+        "answer_en": "The answer is in the park"
+    },
+    {
+        "id": 151,
+        "answer": "消除你自身的障碍",
+        "from": "答案之书",
+        "answer_en": "Remove your own obstacles"
+    },
+    {
+        "id": 152,
+        "answer": "这是不明智的",
+        "from": "答案之书",
+        "answer_en": "This is unwise"
+    },
+    {
+        "id": 153,
+        "answer": "将需要大量的努力",
+        "from": "答案之书",
+        "answer_en": "It will require a lot of effort"
+    },
+    {
+        "id": 154,
+        "answer": "不要勉强自己",
+        "from": "答案之书",
+        "answer_en": "Don't force yourself"
+    },
+    {
+        "id": 155,
+        "answer": "是时候做打算了",
+        "from": "答案之书",
+        "answer_en": "It is time to make plans"
+    },
+    {
+        "id": 156,
+        "answer": "别再犹豫了",
+        "from": "答案之书",
+        "answer_en": "Stop hesitating"
+    },
+    {
+        "id": 157,
+        "answer": "享受这次体验",
+        "from": "答案之书",
+        "answer_en": "Enjoy the experience"
+    },
+    {
+        "id": 158,
+        "answer": "要付出坚持不懈的努力",
+        "from": "答案之书",
+        "answer_en": "It requires persistent effort"
+    },
+    {
+        "id": 159,
+        "answer": "那仍旧无法预测",
+        "from": "答案之书",
+        "answer_en": "It is still unpredictable"
+    },
+    {
+        "id": 160,
+        "answer": "毋庸置疑",
+        "from": "答案之书",
+        "answer_en": "Undoubtedly"
+    },
+    {
+        "id": 161,
+        "answer": "多花点时间来做决定",
+        "from": "答案之书",
+        "answer_en": "Take more time to decide"
+    },
+    {
+        "id": 162,
+        "answer": "只做这一次",
+        "from": "答案之书",
+        "answer_en": "Do it only once"
+    },
+    {
+        "id": 163,
+        "answer": "这是不明智的",
+        "from": "答案之书",
+        "answer_en": "This is unwise"
+    },
+    {
+        "id": 164,
+        "answer": "做些改变",
+        "from": "答案之书",
+        "answer_en": "Make a change"
+    },
+    {
+        "id": 165,
+        "answer": "可行",
+        "from": "答案之书",
+        "answer_en": "Feasible"
+    },
+    {
+        "id": 166,
+        "answer": "先做好其他事",
+        "from": "答案之书",
+        "answer_en": "Finish other things first"
+    },
+    {
+        "id": 167,
+        "answer": "不要陷入到情绪之中",
+        "from": "答案之书",
+        "answer_en": "Don't get emotional"
+    },
+    {
+        "id": 168,
+        "answer": "相信你的直觉",
+        "from": "答案之书",
+        "answer_en": "Trust your intuition"
+    },
+    {
+        "id": 169,
+        "answer": "采纳智者的建议",
+        "from": "答案之书",
+        "answer_en": "Take the advice of a wise person"
+    },
+    {
+        "id": 170,
+        "answer": "情况不明了",
+        "from": "答案之书",
+        "answer_en": "The situation is unclear"
+    },
+    {
+        "id": 171,
+        "answer": "你不得不妥协",
+        "from": "答案之书",
+        "answer_en": "You will have to compromise"
+    },
+    {
+        "id": 172,
+        "answer": "列出否定的理由",
+        "from": "答案之书",
+        "answer_en": "List the reasons against it"
+    },
+    {
+        "id": 173,
+        "answer": "要有耐心",
+        "from": "答案之书",
+        "answer_en": "Be patient"
+    },
+    {
+        "id": 174,
+        "answer": "一笑置之",
+        "from": "答案之书",
+        "answer_en": "Laugh it off"
+    },
+    {
+        "id": 175,
+        "answer": "继续",
+        "from": "答案之书",
+        "answer_en": "Continue"
+    },
+    {
+        "id": 176,
+        "answer": "你必须随机应变",
+        "from": "答案之书",
+        "answer_en": "You must improvise"
+    },
+    {
+        "id": 177,
+        "answer": "别忘记享受乐趣",
+        "from": "答案之书",
+        "answer_en": "Don't forget to have fun"
+    },
+    {
+        "id": 178,
+        "answer": "那是在浪费金钱",
+        "from": "答案之书",
+        "answer_en": "That would be a waste of money"
+    },
+    {
+        "id": 179,
+        "answer": "重要的优先",
+        "from": "答案之书",
+        "answer_en": "Prioritize what is important"
+    },
+    {
+        "id": 180,
+        "answer": "为了做出最好的决定，务必保持冷静",
+        "from": "答案之书",
+        "answer_en": "Stay calm to make the best decision"
+    },
+    {
+        "id": 181,
+        "answer": "尝试一个更没把握的方法",
+        "from": "答案之书",
+        "answer_en": "Try a less certain approach"
+    },
+    {
+        "id": 182,
+        "answer": "清除你自身的障碍",
+        "from": "答案之书",
+        "answer_en": "Clear your own obstacles"
+    },
+    {
+        "id": 183,
+        "answer": "那可能已成事实",
+        "from": "答案之书",
+        "answer_en": "It may already be a fact"
+    },
+    {
+        "id": 184,
+        "answer": "保守你的秘密",
+        "from": "答案之书",
+        "answer_en": "Keep your secret"
+    },
+    {
+        "id": 185,
+        "answer": "你必须马上行动",
+        "from": "答案之书",
+        "answer_en": "You must act immediately"
+    },
+    {
+        "id": 186,
+        "answer": "不要妄下赌注",
+        "from": "答案之书",
+        "answer_en": "Don't make a rash bet"
+    },
+    {
+        "id": 187,
+        "answer": "那可能已无法改变",
+        "from": "答案之书",
+        "answer_en": "It may be unchangeable"
+    },
+    {
+        "id": 188,
+        "answer": "一些帮助能确保你成功",
+        "from": "答案之书",
+        "answer_en": "Some help will ensure your success"
+    },
+    {
+        "id": 189,
+        "answer": "你肯定会获得支持",
+        "from": "答案之书",
+        "answer_en": "You will definitely get support"
+    },
+    {
+        "id": 190,
+        "answer": "只做一次",
+        "from": "答案之书",
+        "answer_en": "Do it only once"
+    },
+    {
+        "id": 191,
+        "answer": "遵循智者的建议",
+        "from": "答案之书",
+        "answer_en": "Follow the advice of a wise person"
+    },
+    {
+        "id": 192,
+        "answer": "如你所愿",
+        "from": "答案之书",
+        "answer_en": "As you wish"
+    },
+    {
+        "id": 193,
+        "answer": "当局者迷",
+        "from": "答案之书",
+        "answer_en": "The one involved is confused"
+    },
+    {
+        "id": 194,
+        "answer": "无论你怎么做，结果依旧",
+        "from": "答案之书",
+        "answer_en": "No matter what you do, the result remains the same"
+    },
+    {
+        "id": 195,
+        "answer": "先主后次",
+        "from": "答案之书",
+        "answer_en": "Do the main things first"
+    },
+    {
+        "id": 196,
+        "answer": "这会让你付出代价",
+        "from": "答案之书",
+        "answer_en": "This will cost you"
+    },
+    {
+        "id": 197,
+        "answer": "尽早行动",
+        "from": "答案之书",
+        "answer_en": "Act as soon as possible"
+    },
+    {
+        "id": 198,
+        "answer": "寻求更多选择",
+        "from": "答案之书",
+        "answer_en": "Seek more options"
+    },
+    {
+        "id": 199,
+        "answer": "你现在比以往任何时候都清楚",
+        "from": "答案之书",
+        "answer_en": "You know more now than ever before"
+    },
+    {
+        "id": 200,
+        "answer": "极可能发生事故",
+        "from": "答案之书",
+        "answer_en": "An accident is very likely"
+    },
+    {
+        "id": 201,
+        "answer": "带着好奇去探索",
+        "from": "答案之书",
+        "answer_en": "Explore with curiosity"
+    },
+    {
+        "id": 202,
+        "answer": "列出这样做的理由",
+        "from": "答案之书",
+        "answer_en": "List the reasons for doing it"
+    },
+    {
+        "id": 203,
+        "answer": "马上停下来",
+        "from": "答案之书",
+        "answer_en": "Stop immediately"
+    },
+    {
+        "id": 204,
+        "answer": "这不是很确定",
+        "from": "答案之书",
+        "answer_en": "This is not very certain"
+    },
+    {
+        "id": 205,
+        "answer": "不用担心",
+        "from": "答案之书",
+        "answer_en": "Don't worry"
+    },
+    {
+        "id": 206,
+        "answer": "不要告诉别人",
+        "from": "答案之书",
+        "answer_en": "Don't tell anyone"
+    },
+    {
+        "id": 207,
+        "answer": "你需要其他人的帮助",
+        "from": "答案之书",
+        "answer_en": "You need help from others"
+    },
+    {
+        "id": 208,
+        "answer": "那将是一件乐事",
+        "from": "答案之书",
+        "answer_en": "That would be a pleasure"
+    },
+    {
+        "id": 209,
+        "answer": "不要迫于压力草率行事",
+        "from": "答案之书",
+        "answer_en": "Don't act hastily under pressure"
+    },
+    {
+        "id": 210,
+        "answer": "不要等待",
+        "from": "答案之书",
+        "answer_en": "Don't wait"
+    },
+    {
+        "id": 211,
+        "answer": "你能以任何方式改善现状",
+        "from": "答案之书",
+        "answer_en": "You can improve the situation in any way"
+    },
+    {
+        "id": 212,
+        "answer": "你会为此感到高兴",
+        "from": "答案之书",
+        "answer_en": "You will be happy about it"
+    },
+    {
+        "id": 213,
+        "answer": "放弃之前的想法",
+        "from": "答案之书",
+        "answer_en": "Abandon your previous idea"
+    },
+    {
+        "id": 214,
+        "answer": "你不会忘记这些",
+        "from": "答案之书",
+        "answer_en": "You won't forget this"
+    },
+    {
+        "id": 215,
+        "answer": "谨慎对待",
+        "from": "答案之书",
+        "answer_en": "Handle with caution"
+    },
+    {
+        "id": 216,
+        "answer": "放弃你现在的想法",
+        "from": "答案之书",
+        "answer_en": "Give up your current idea"
+    },
+    {
+        "id": 217,
+        "answer": "有理由保持乐观",
+        "from": "答案之书",
+        "answer_en": "There is reason to be optimistic"
+    },
+    {
+        "id": 218,
+        "answer": "你会发现自己难以妥协",
+        "from": "答案之书",
+        "answer_en": "You will find it hard to compromise"
+    },
+    {
+        "id": 219,
+        "answer": "改变不会很快发生",
+        "from": "答案之书",
+        "answer_en": "Change will not happen soon"
+    },
+    {
+        "id": 220,
+        "answer": "有些障碍需要克服",
+        "from": "答案之书",
+        "answer_en": "Some obstacles need to be overcome"
+    },
+    {
+        "id": 221,
+        "answer": "耐心点",
+        "from": "答案之书",
+        "answer_en": "Be patient"
+    },
+    {
+        "id": 222,
+        "answer": "果断放弃",
+        "from": "答案之书",
+        "answer_en": "Give up decisively"
+    },
+    {
+        "id": 223,
+        "answer": "最好把心思放在工作上",
+        "from": "答案之书",
+        "answer_en": "Better to focus on work"
+    },
+    {
+        "id": 224,
+        "answer": "要做就做好，否则就不要去做",
+        "from": "答案之书",
+        "answer_en": "Do it well or don't do it at all"
+    },
+    {
+        "id": 225,
+        "answer": "深表怀疑",
+        "from": "答案之书",
+        "answer_en": "Be deeply skeptical"
+    },
+    {
+        "id": 226,
+        "answer": "最好的解决方法可能不太明显",
+        "from": "答案之书",
+        "answer_en": "The best solution may not be obvious"
+    },
+    {
+        "id": 227,
+        "answer": "已超出你的控制",
+        "from": "答案之书",
+        "answer_en": "It is beyond your control"
+    },
+    {
+        "id": 228,
+        "answer": "看看会发生什么",
+        "from": "答案之书",
+        "answer_en": "See what happens"
+    },
+    {
+        "id": 229,
+        "answer": "你需要更多信息",
+        "from": "答案之书",
+        "answer_en": "You need more information"
+    },
+    {
+        "id": 230,
+        "answer": "开阔视野",
+        "from": "答案之书",
+        "answer_en": "Broaden your horizons"
+    },
+    {
+        "id": 231,
+        "answer": "看得更清楚些",
+        "from": "答案之书",
+        "answer_en": "See more clearly"
+    },
+    {
+        "id": 232,
+        "answer": "结果可能会令人震惊",
+        "from": "答案之书",
+        "answer_en": "The result may be shocking"
+    },
+    {
+        "id": 233,
+        "answer": "节省你的精力吧",
+        "from": "答案之书",
+        "answer_en": "Save your energy"
+    },
+    {
+        "id": 234,
+        "answer": "管它呢",
+        "from": "答案之书",
+        "answer_en": "Who cares"
+    },
+    {
+        "id": 235,
+        "answer": "无论你做什么，结果依旧",
+        "from": "答案之书",
+        "answer_en": "No matter what you do, the result remains the same"
+    },
+    {
+        "id": 236,
+        "answer": "那将引起一些纷争",
+        "from": "答案之书",
+        "answer_en": "That will cause some conflict"
+    },
+    {
+        "id": 237,
+        "answer": "相关问题可能会浮出水面",
+        "from": "答案之书",
+        "answer_en": "Related issues may surface"
+    },
+    {
+        "id": 238,
+        "answer": "遵循其他人的建议",
+        "from": "答案之书",
+        "answer_en": "Follow others' advice"
+    },
+    {
+        "id": 239,
+        "answer": "改变将不会很快发生",
+        "from": "答案之书",
+        "answer_en": "Change will not happen soon"
+    },
+    {
+        "id": 240,
+        "answer": "值得付出努力",
+        "from": "答案之书",
+        "answer_en": "It is worth the effort"
+    },
+    {
+        "id": 241,
+        "answer": "负起责任来",
+        "from": "答案之书",
+        "answer_en": "Take responsibility"
+    },
+    {
+        "id": 242,
+        "answer": "不值得一争",
+        "from": "答案之书",
+        "answer_en": "Not worth arguing about"
+    },
+    {
+        "id": 243,
+        "answer": "问问你的父亲吧",
+        "from": "答案之书",
+        "answer_en": "Ask your father"
+    },
+    {
+        "id": 244,
+        "answer": "向别人倾诉",
+        "from": "答案之书",
+        "answer_en": "Talk to someone"
+    },
+    {
+        "id": 245,
+        "answer": "看起来还行",
+        "from": "答案之书",
+        "answer_en": "It looks okay"
+    },
+    {
+        "id": 246,
+        "answer": "绝不",
+        "from": "答案之书",
+        "answer_en": "Absolutely not"
+    },
+    {
+        "id": 247,
+        "answer": "等待一个更好的提议",
+        "from": "答案之书",
+        "answer_en": "Wait for a better offer"
+    },
+    {
+        "id": 248,
+        "answer": "你可能会遭遇反对",
+        "from": "答案之书",
+        "answer_en": "You may encounter opposition"
+    },
+    {
+        "id": 249,
+        "answer": "告诉某人那对你意味着什么",
+        "from": "答案之书",
+        "answer_en": "Tell someone what it means to you"
+    },
+    {
+        "id": 250,
+        "answer": "一切都取决于你的选择",
+        "from": "答案之书",
+        "answer_en": "Everything depends on your choice"
+    },
+    {
+        "id": 251,
+        "answer": "把这看作一个时机",
+        "from": "答案之书",
+        "answer_en": "See this as an opportunity"
+    },
+    {
+        "id": 252,
+        "answer": "不要陷入你的情绪",
+        "from": "答案之书",
+        "answer_en": "Don't get caught in your emotions"
+    },
+    {
+        "id": 253,
+        "answer": "你一定得这么做",
+        "from": "答案之书",
+        "answer_en": "You must do it"
+    },
+    {
+        "id": 254,
+        "answer": "享受这个过程",
+        "from": "答案之书",
+        "answer_en": "Enjoy the process"
+    },
+    {
+        "id": 255,
+        "answer": "不识庐山真面目，只缘身在此山中",
+        "from": "答案之书",
+        "answer_en": "You can't see the true face of the mountain when you are in it"
+    },
+    {
+        "id": 256,
+        "answer": "你不会失望的",
+        "from": "答案之书",
+        "answer_en": "You won't be disappointed"
+    },
+    {
+        "id": 257,
+        "answer": "是时候走了",
+        "from": "答案之书",
+        "answer_en": "It is time to go"
+    },
+    {
+        "id": 258,
+        "answer": "欣然接受",
+        "from": "答案之书",
+        "answer_en": "Accept it gladly"
+    },
+    {
+        "id": 259,
+        "answer": "遵循其他人的意见",
+        "from": "答案之书",
+        "answer_en": "Follow others' opinions"
+    },
+    {
+        "id": 260,
+        "answer": "说出来吧",
+        "from": "答案之书",
+        "answer_en": "Say it"
+    },
+    {
+        "id": 261,
+        "answer": "慷慨大度一些",
+        "from": "答案之书",
+        "answer_en": "Be more generous"
+    },
+    {
+        "id": 262,
+        "answer": "你可能遭遇反对",
+        "from": "答案之书",
+        "answer_en": "You may encounter opposition"
+    },
+    {
+        "id": 263,
+        "answer": "你能否不要抗拒",
+        "from": "答案之书",
+        "answer_en": "Can you stop resisting"
+    },
+    {
+        "id": 264,
+        "answer": "要障碍需要克服",
+        "from": "答案之书",
+        "answer_en": "Obstacles need to be overcome"
+    },
+    {
+        "id": 265,
+        "answer": "做出改变",
+        "from": "答案之书",
+        "answer_en": "Make a change"
+    },
+    {
+        "id": 266,
+        "answer": "无法保证",
+        "from": "答案之书",
+        "answer_en": "No guarantee"
+    },
+    {
+        "id": 267,
+        "answer": "算了吧",
+        "from": "答案之书",
+        "answer_en": "Forget it"
+    },
+    {
+        "id": 268,
+        "answer": "合作是关键",
+        "from": "答案之书",
+        "answer_en": "Cooperation is the key"
+    }
+]

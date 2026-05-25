@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="妈祖能量钻石光环">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="52%" r="56%">
+      <stop offset="0%" stop-color="#fffdf2"/>
+      <stop offset="32%" stop-color="#fff3c9"/>
+      <stop offset="56%" stop-color="#dfbf88"/>
+      <stop offset="72%" stop-color="#8e7a55"/>
+      <stop offset="100%" stop-color="#f7dfb9"/>
+    </radialGradient>
+    <radialGradient id="aura" cx="50%" cy="52%" r="58%">
+      <stop offset="0%" stop-color="#fffdf5" stop-opacity=".96"/>
+      <stop offset="46%" stop-color="#fff0bd" stop-opacity=".72"/>
+      <stop offset="72%" stop-color="#d99a51" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#d99a51" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="diamond" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fffdf4"/>
+      <stop offset="34%" stop-color="#fff2c9"/>
+      <stop offset="62%" stop-color="#ffd7c7"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="rose" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fff9ec" stop-opacity=".94"/>
+      <stop offset="50%" stop-color="#ffd8c5" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#fff8df" stop-opacity=".94"/>
+    </linearGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 1  0 0.82 0 0 0.72  0 0 0.55 0 0.35  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="42" fill="#f8dfb9"/>
+  <path d="M512 0v512H0C116 438 202 336 258 205 298 111 377 38 512 0Z" fill="#edd0a2" opacity=".46"/>
+  <path d="M71 512C128 390 235 334 326 267c57-42 105-94 137-178" fill="none" stroke="#fff7e5" stroke-width="2" opacity=".44"/>
+  <circle cx="256" cy="256" r="178" fill="#f4ddbb" opacity=".86"/>
+  <circle cx="256" cy="256" r="145" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="164" fill="none" stroke="#fff9ea" stroke-width="3" opacity=".82"/>
+  <circle cx="256" cy="256" r="118" fill="url(#aura)" filter="url(#softGlow)"/>
+  <g filter="url(#softGlow)">
+    <path d="M126 227 181 158h150l55 69-130 132Z" fill="url(#diamond)" opacity=".92"/>
+    <path d="M181 158 213 227h-87Zm150 0-32 69h87Zm-118 69h86l-43 132Z" fill="#ffffff" opacity=".68"/>
+    <path d="M181 158h150l-75 69Z" fill="url(#rose)" opacity=".86"/>
+    <path d="M126 227h260M181 158l75 201M331 158 256 359M213 227l43-69 43 69" fill="none" stroke="#fffaf0" stroke-width="3" stroke-linejoin="round" opacity=".78"/>
+    <path d="M159 244c42-20 72-22 97-1 24-20 57-17 98 1-37 8-67 22-98 53-31-31-61-45-97-53Z" fill="#fff8df" opacity=".32"/>
+  </g>
+  <g opacity=".78">
+    <path d="M256 90v58M256 364v58M90 256h58M364 256h58" stroke="#fff9ec" stroke-width="4" stroke-linecap="round"/>
+    <path d="M139 139l42 42M331 331l42 42M373 139l-42 42M181 331l-42 42" stroke="#fff3d2" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
