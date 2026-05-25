@@ -1,0 +1,2 @@
+# mazugame
+kela NFC game
