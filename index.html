@@ -8315,7 +8315,7 @@
         </div>
         <div class="treehole-actions">
           <button class="treehole-btn-gentle" id="treeholeGentle" type="button">轻轻放下</button>
-          <button class="treehole-btn-throw" id="treeholeThrow" type="button">帮我扔掉烦恼</button>
+          <button class="treehole-btn-throw" id="treeholeThrow" type="button">交给海风</button>
         </div>
       </div>
 
@@ -11546,7 +11546,9 @@
       const PLACEHOLDERS = [
         "今天发生了什么？",
         "你可以只写一句话。",
-        "不开心也没关系。"
+		"开心也好。",
+        "不开心也没关系。",
+		"你的悄悄话偷偷塞给我"
       ];
 
       const entry      = $("#treeholeEntry");
@@ -11794,7 +11796,7 @@
         animRunning = false;
       });
 
-      /* ── 帮我扔掉烦恼 ── */
+      /* ── 交给海风 ── */
       throwBtn.addEventListener("click", async () => {
         if (animRunning) return;
         const text = input.value.trim();
